@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Github User</string>
+    <string name="searchbar_hint">Enter Username</string>
+    <string name="followers_count" tools:ignore="PluralsCandidate">%d Followers</string>
+    <string name="following_count" tools:ignore="PluralsCandidate">%d Following</string>
+    <string name="username">Username</string>
+    <string name="html">%s</string>
+    <string name="name_not_specified">Name Not Specified</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="developer">Developed by Rahma Bintang Pratama</string>
+    <string name="favorite">Favorite User</string>
+</resources>
